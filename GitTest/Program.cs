@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace GitTest
         {
             var ui = new UI();
             ui.Hello();
-            Console.ReadKey();
+            Console.Readline();
         }
     }
 }
