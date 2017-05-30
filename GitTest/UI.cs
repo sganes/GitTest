@@ -12,6 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("Hello GIT");
             Console.WriteLine("Hello again");
+            Console.ReadLine();
         }
     }
 }
